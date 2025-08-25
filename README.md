@@ -18,10 +18,10 @@ Anaconda Prompt
 - conda search [channel::package]  : 패키지 검색
 - conda install channel::package==version : 특정 버전 패키지 설치. ==version 제거하면 마지막 버전 설치.
 
-- 클론 생성 : conda create -n [env_name] --clone  env [existing_env]
-- 이름 변경 : conda rename -n [old_name] [new_name]
-- export : conda export > [env_file.yml]   : .yml 확장자.
-- import : conda env create --file [env_file.yml]        -> Terminal / Anaconda Prompt 가 name.yml 의 경로에 있어야 함.
+- conda create -n [env_name] --clone  env [existing_env]  : 클론 생성
+- conda rename -n [old_name] [new_name] : 이름 변경
+- conda export > [env_file.yml]   : export. [.yml 확장자].
+- conda env create --file [env_file.yml] : import. [Terminal/Anaconda Prompt] 가 [env_file.yml] 의 경로에 있어야 함.
 
 ### Anaconda Update
 - conda update -n base conda
