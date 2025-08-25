@@ -2,6 +2,7 @@
 - [아나콘다 설치하기](https://www.anaconda.com/)
 - [유투브 강의](https://www.youtube.com/watch?v=hvvnZQCapoQ&list=PLtm_YtKTtDkRnlkev9yyzX8uY5g1JGheD&index=5&ab_channel=%EA%B3%B5%EB%8C%80%ED%98%95%EC%95%84)
   - [파이참 사용법](https://www.youtube.com/watch?v=MlZLRQVwgIA&list=PLtm_YtKTtDkRnlkev9yyzX8uY5g1JGheD&index=14&ab_channel=%EA%B3%B5%EB%8C%80%ED%98%95%EC%95%84)
+  - [파이참 가상환경 설정법](https://www.youtube.com/watch?v=fDf_2CrtwR0&list=PLtm_YtKTtDkRnlkev9yyzX8uY5g1JGheD&index=15&ab_channel=%EA%B3%B5%EB%8C%80%ED%98%95%EC%95%84)
 
 ## Windows
 Anconda PowerSheel Prompt   
